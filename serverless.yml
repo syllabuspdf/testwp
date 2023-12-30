@@ -16,7 +16,7 @@ functions:
           method: any
           path: /{proxy+}
     environment:
-      #DATABASE: ''
-      #USERNAME: ''
-      #PASSWORD: Don't set this if you'll be commiting the file, instead use the AWS console or another method like Parameter Store
-      #HOST: ''
+      DATABASE: 'testwpgi'
+      USERNAME: 'wcaj0hlyzygbzygaa8jo'
+      PASSWORD: 'pscale_pw_3ccJDg5Jw5U0ytbcPSJBjLBJKKfkWVCvhC8MfW6zcPv'
+      HOST: 'aws.connect.psdb.cloud'
